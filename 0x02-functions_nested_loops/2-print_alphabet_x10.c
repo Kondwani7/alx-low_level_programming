@@ -4,7 +4,7 @@
  *
  * Return: Always 0 for success
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	char alphabet;
 	int count = 0;
