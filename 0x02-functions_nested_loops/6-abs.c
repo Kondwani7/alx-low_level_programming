@@ -6,7 +6,7 @@
  */
 int _abs(int n)
 {
-	if (n < O)
+	if (n < 0)
 	{
 		return (n * (-1));
 	}
