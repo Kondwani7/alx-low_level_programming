@@ -22,18 +22,12 @@ int main(void)
 		}
 		else if (i % 5 == 0)
 		{
-			if (i < x)
-			{
-				print("Buzz ");
-			}
-			else
-			{
-				print("Buzz ");
-			}
+			printf("Buzz ");
+		}
 		}
 		else
 		{
-			printf("%i ", i);
+			printf("%d ", i);
 		}
 		i++;
 	}
