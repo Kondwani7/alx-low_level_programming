@@ -20,13 +20,14 @@ int _sq_recursive(int i, int n)
 		return (i);
 	}
 }
+
 /**
  * _sqrt_recursion - check for the sqrt of a integer
  * @n: integer
  * Return: the natural square root
  */
 
-int _sqrt_recursion(int n)
+	int _sqrt_recursion(int n)
 {
 	int i = 0;
 
