@@ -36,11 +36,11 @@ int is_prime_number(int n)
 
 	iter = 2;
 
-	if (num < 2)
+	if (n < 2)
 	{
 		return (0);
 	}
-	else if (num == 2)
+	else if (n == 2)
 	{
 		return (1);
 	}
