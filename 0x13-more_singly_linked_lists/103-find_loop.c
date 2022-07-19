@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * find_lisint_loop - floyd's cycle tortise and hare
+ * find_listint_loop - floyd's cycle tortise and hare
  * @head: head of linked lsit
  *
  * Return: node where loop occcurs if found
