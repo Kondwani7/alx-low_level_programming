@@ -1,13 +1,13 @@
 #include "lists.h"
 
 /**
- * find_listint_loop - floyd's cycle tortise and hare
+ * find_lisint_loop - floyd's cycle tortise and hare
  * @head: head of linked lsit
  *
  * Return: node where loop occcurs if found
  */
 
-listint_t *find_listint_loop(lisint_t *head)
+listint_t *find_lisint_loop(lisint_t *head)
 {
 	listint_t *slow = head;
 	listint_t *fast = head;
