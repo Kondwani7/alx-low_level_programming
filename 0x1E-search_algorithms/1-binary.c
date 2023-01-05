@@ -1,6 +1,6 @@
 #include "search_algos.h"
 /**
-* pri_arr: prints array
+* pri_arr - prints array
 * @array: array
 * @start: start point
 * @end: ending point
@@ -20,7 +20,7 @@ void pri_arr(int *array, size_t start, size_t end)
 
 /**
 * binary_search - a function that searches for a value in a
-* sorted array of integers using the Binary search algorithm
+*sorted array of integers using the Binary search algorithm
 * @array: pointer to the first element of the array
 * @size: is the number of elements in array
 * @value: value to search for
